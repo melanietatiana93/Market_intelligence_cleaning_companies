@@ -1,6 +1,6 @@
 
 **Description:**
-This project showcases my skills in market intelligence analysis, specifically focusing on the cleaning industry. I have conducted in-depth analysis of various cleaning companies, utilizing different metrics to evaluate their monthly performance. The analysis includes monthly results, results by company, subcategory breakdown, a comparison with the previous month, and historical evaluation.
+I have conducted in-depth analysis of various cleaning companies, utilizing different metrics to evaluate their monthly performance. The analysis includes monthly results, results by company, subcategory breakdown, a comparison with the previous month, and historical evaluation.
 
 To gather the necessary data, I have implemented a data gateway, enabling seamless extraction from an Excel source. The data is then transformed using Power Query and DAX, ensuring accurate and insightful analysis. The project also incorporates an interactive menu, providing users with the ability to explore and compare different metrics.
 
